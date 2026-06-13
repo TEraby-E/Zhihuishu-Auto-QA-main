@@ -1,7 +1,6 @@
 # Zhihuishu-Auto-QA
 
 AI-Based Zhihuishu Auto QA Script
-referring to https://github.com/Yan233th/Zhihuishu-Auto-QA
 A new filter has been added, allowing users to specify a particular name when asking questions.
 ## Usage Instructions
 
